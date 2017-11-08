@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MyPkg</fullName>
+    <types>
+        <members>LIFXController</members>
+        <members>LIFXControllerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Dreamhouse_Settings__c.Einstein_Vision_Email__c</members>
+        <members>Dreamhouse_Settings__c.LIFX_Token__c</members>
+        <members>Dreamhouse_Settings__c.LIFX_URL__c</members>
+        <members>Dreamhouse_Settings__c.Light_Service_URL__c</members>
+        <members>Dreamhouse_Settings__c.Push_Server_URL__c</members>
+        <members>Dreamhouse_Settings__c.Slack_Opportunity_Webhook_URL__c</members>
+        <members>Dreamhouse_Settings__c.Slack_Property_Webhook_URL__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Dreamhouse_Settings__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>41.0</version>
+</Package>
